@@ -50,19 +50,6 @@ twitter_archive.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -214,19 +201,6 @@ image_predictions.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -420,19 +394,6 @@ tweet_json.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -601,19 +562,6 @@ tweet_json.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -671,19 +619,6 @@ tweet_json.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -747,19 +682,6 @@ twitter_archive.sample(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -899,19 +821,6 @@ twitter_archive.sample(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1051,19 +960,6 @@ image_predictions.sample(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1173,19 +1069,6 @@ tweet_json.sample(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1312,19 +1195,6 @@ twitter_archive.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1520,19 +1390,6 @@ image_predictions.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1624,19 +1481,6 @@ tweet_json.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1737,87 +1581,6 @@ image_predictions.p1.tolist()
      'guinea_pig',
      'soft-coated_wheaten_terrier',
      'Chihuahua',
-     'black-and-tan_coonhound',
-     'coho',
-     'toy_terrier',
-     'Blenheim_spaniel',
-     'Pembroke',
-     'llama',
-     'Chesapeake_Bay_retriever',
-     'Chihuahua',
-     'curly-coated_retriever',
-     'dalmatian',
-     'Ibizan_hound',
-     'Border_collie',
-     'German_shepherd',
-     'Labrador_retriever',
-     'miniature_poodle',
-     'seat_belt',
-     'Italian_greyhound',
-     'snail',
-     'English_setter',
-     'miniature_schnauzer',
-     'Maltese_dog',
-     'Airedale',
-     'triceratops',
-     'swab',
-     'hay',
-     'hyena',
-     'golden_retriever',
-     'Chesapeake_Bay_retriever',
-     'jigsaw_puzzle',
-     'Chihuahua',
-     'Chihuahua',
-     'Pembroke',
-     'West_Highland_white_terrier',
-     'toy_poodle',
-     'golden_retriever',
-     'miniature_pinscher',
-     'giant_schnauzer',
-     'toy_poodle',
-     'soft-coated_wheaten_terrier',
-     'vizsla',
-     'golden_retriever',
-     'vacuum',
-     'Rottweiler',
-     'Siberian_husky',
-     'golden_retriever',
-     'teddy',
-     'papillon',
-     'Saint_Bernard',
-     'Rottweiler',
-     'porcupine',
-     'goose',
-     'Labrador_retriever',
-     'Tibetan_terrier',
-     'toy_poodle',
-     'borzoi',
-     'Chihuahua',
-     'Labrador_retriever',
-     'beagle',
-     'Italian_greyhound',
-     'hare',
-     'golden_retriever',
-     'Pembroke',
-     'Yorkshire_terrier',
-     'Pomeranian',
-     'toy_poodle',
-     'electric_fan',
-     'web_site',
-     'web_site',
-     'ibex',
-     'kuvasz',
-     'fire_engine',
-     'West_Highland_white_terrier',
-     'lorikeet',
-     'dalmatian',
-     'flat-coated_retriever',
-     'toyshop',
-     'miniature_pinscher',
-     'malamute',
-     'jigsaw_puzzle',
-     'common_iguana',
-     'seat_belt',
      'malamute',
      'Pomeranian',
      'Norwegian_elkhound',
@@ -1832,131 +1595,6 @@ image_predictions.p1.tolist()
      'Blenheim_spaniel',
      'Labrador_retriever',
      'chow',
-     'trombone',
-     'chow',
-     'Chihuahua',
-     'canoe',
-     'Pembroke',
-     'soft-coated_wheaten_terrier',
-     'golden_retriever',
-     'web_site',
-     'king_penguin',
-     'shopping_basket',
-     'Arctic_fox',
-     'standard_poodle',
-     'Staffordshire_bullterrier',
-     'basenji',
-     'Labrador_retriever',
-     'Lakeland_terrier',
-     'American_Staffordshire_terrier',
-     'bearskin',
-     'Shih-Tzu',
-     'bustard',
-     'crash_helmet',
-     'Chihuahua',
-     'ox',
-     'French_bulldog',
-     'miniature_schnauzer',
-     'Pekinese',
-     'komondor',
-     'vacuum',
-     'common_iguana',
-     'ski_mask',
-     'beagle',
-     'Chesapeake_Bay_retriever',
-     'redbone',
-     'malinois',
-     'golden_retriever',
-     'teddy',
-     'kelpie',
-     'Brittany_spaniel',
-     'standard_poodle',
-     'cocker_spaniel',
-     'shower_curtain',
-     'basset',
-     'golden_retriever',
-     'jellyfish',
-     'doormat',
-     'Arabian_camel',
-     'pug',
-     'lynx',
-     'hog',
-     'Pembroke',
-     'Chihuahua',
-     'comic_book',
-     'Chihuahua',
-     'pug',
-     'minivan',
-     'golden_retriever',
-     'seashore',
-     'golden_retriever',
-     'Siberian_husky',
-     'cuirass',
-     'teddy',
-     'Chihuahua',
-     'Labrador_retriever',
-     'golden_retriever',
-     'basset',
-     'Brabancon_griffon',
-     'Airedale',
-     'cocker_spaniel',
-     'toy_poodle',
-     'Chihuahua',
-     'minivan',
-     'West_Highland_white_terrier',
-     'candle',
-     'Eskimo_dog',
-     'Maltese_dog',
-     'seat_belt',
-     'weasel',
-     'dalmatian',
-     'Christmas_stocking',
-     'Pomeranian',
-     'washbasin',
-     'Pembroke',
-     'car_mirror',
-     'Pomeranian',
-     'vizsla',
-     'miniature_pinscher',
-     'teddy',
-     'piggy_bank',
-     'beagle',
-     'pot',
-     'web_site',
-     'Blenheim_spaniel',
-     'snail',
-     'Italian_greyhound',
-     'boathouse',
-     'malamute',
-     'mud_turtle',
-     'German_short-haired_pointer',
-     'toy_poodle',
-     'Chihuahua',
-     'Shetland_sheepdog',
-     'Irish_terrier',
-     'cairn',
-     'platypus',
-     'English_springer',
-     'whippet',
-     'pug',
-     'ping-pong_ball',
-     'Maltese_dog',
-     'sea_urchin',
-     'bow_tie',
-     'Chihuahua',
-     'seat_belt',
-     'chow',
-     'window_shade',
-     "jack-o'-lantern",
-     'sorrel',
-     'Sussex_spaniel',
-     'English_springer',
-     'peacock',
-     'Arctic_fox',
-     'axolotl',
-     'minivan',
-     'wool',
-     'banana',
      'Dandie_Dinmont',
      'Ibizan_hound',
      'Shetland_sheepdog',
@@ -1969,739 +1607,6 @@ image_predictions.p1.tolist()
      'pug',
      'Labrador_retriever',
      'Chihuahua',
-     'lacewing',
-     'dingo',
-     'beagle',
-     'brown_bear',
-     'Pembroke',
-     'basenji',
-     'Pomeranian',
-     'Old_English_sheepdog',
-     'basset',
-     'American_Staffordshire_terrier',
-     'web_site',
-     'Labrador_retriever',
-     'scorpion',
-     'malinois',
-     'Pekinese',
-     'flamingo',
-     'Shih-Tzu',
-     'microphone',
-     'redbone',
-     'basenji',
-     'malinois',
-     'goose',
-     'Shih-Tzu',
-     'Samoyed',
-     'guinea_pig',
-     'Yorkshire_terrier',
-     'Rottweiler',
-     'Labrador_retriever',
-     'pitcher',
-     'African_hunting_dog',
-     'refrigerator',
-     'Rottweiler',
-     'Chihuahua',
-     'picket_fence',
-     'miniature_poodle',
-     'Italian_greyhound',
-     'tub',
-     'zebra',
-     'Samoyed',
-     'German_shepherd',
-     'hermit_crab',
-     'swing',
-     'toy_poodle',
-     'hermit_crab',
-     'Lakeland_terrier',
-     'Pomeranian',
-     'Doberman',
-     'hen',
-     'pug',
-     'park_bench',
-     'Shetland_sheepdog',
-     'feather_boa',
-     'Loafer',
-     'Gordon_setter',
-     'kuvasz',
-     'stone_wall',
-     'toy_poodle',
-     'ice_bear',
-     'prayer_rug',
-     'Chihuahua',
-     'dalmatian',
-     'chimpanzee',
-     'Labrador_retriever',
-     'china_cabinet',
-     'bee_eater',
-     'ski_mask',
-     'Labrador_retriever',
-     'chow',
-     'pug',
-     'hamster',
-     'pug',
-     'tennis_ball',
-     'Rottweiler',
-     'pug',
-     'cocker_spaniel',
-     'carton',
-     'beagle',
-     'killer_whale',
-     'pug',
-     'Chihuahua',
-     'Irish_terrier',
-     'pug',
-     'ostrich',
-     'Chihuahua',
-     'Irish_terrier',
-     'pug',
-     'cocker_spaniel',
-     'terrapin',
-     'Border_collie',
-     'West_Highland_white_terrier',
-     'Doberman',
-     'golden_retriever',
-     'Siamese_cat',
-     'gondola',
-     'kuvasz',
-     'Great_Pyrenees',
-     'toy_poodle',
-     'microwave',
-     'starfish',
-     'golden_retriever',
-     'Chesapeake_Bay_retriever',
-     'sandbar',
-     'Pembroke',
-     'Chihuahua',
-     'tusker',
-     'motor_scooter',
-     'ram',
-     'Chihuahua',
-     'toy_poodle',
-     'leaf_beetle',
-     'pug',
-     'car_mirror',
-     'wombat',
-     'Lakeland_terrier',
-     'French_bulldog',
-     'chow',
-     'tub',
-     'schipperke',
-     'Airedale',
-     'Shih-Tzu',
-     'golden_retriever',
-     'miniature_pinscher',
-     'Samoyed',
-     'ski_mask',
-     'Chihuahua',
-     'hamster',
-     'West_Highland_white_terrier',
-     'golden_retriever',
-     'Rottweiler',
-     'English_setter',
-     'ox',
-     'teddy',
-     'beagle',
-     'Arctic_fox',
-     'Newfoundland',
-     'wombat',
-     'bull_mastiff',
-     'Labrador_retriever',
-     'Samoyed',
-     'Pekinese',
-     'soft-coated_wheaten_terrier',
-     'Chesapeake_Bay_retriever',
-     'porcupine',
-     'water_bottle',
-     'Shih-Tzu',
-     'German_short-haired_pointer',
-     'golden_retriever',
-     'Chihuahua',
-     'Maltese_dog',
-     'suit',
-     'Brabancon_griffon',
-     'toilet_seat',
-     "jack-o'-lantern",
-     'pug',
-     'jigsaw_puzzle',
-     'Pembroke',
-     'collie',
-     'Pomeranian',
-     'toy_poodle',
-     'Eskimo_dog',
-     'toy_poodle',
-     'robin',
-     'Shih-Tzu',
-     'Cardigan',
-     'ostrich',
-     'Airedale',
-     'Pomeranian',
-     'Eskimo_dog',
-     'Greater_Swiss_Mountain_dog',
-     'slug',
-     'pug',
-     'German_shepherd',
-     'Cardigan',
-     'porcupine',
-     'seashore',
-     'toilet_tissue',
-     'brown_bear',
-     'Chihuahua',
-     'golden_retriever',
-     'acorn_squash',
-     'Brabancon_griffon',
-     'chow',
-     'jellyfish',
-     'Pomeranian',
-     'soccer_ball',
-     'flat-coated_retriever',
-     'African_crocodile',
-     'malamute',
-     'tick',
-     'Pomeranian',
-     'Dandie_Dinmont',
-     'Bernese_mountain_dog',
-     'vizsla',
-     'seashore',
-     'Samoyed',
-     'shower_curtain',
-     'Chihuahua',
-     'ocarina',
-     'miniature_poodle',
-     'Labrador_retriever',
-     'giant_schnauzer',
-     'Pembroke',
-     'English_springer',
-     'Rottweiler',
-     'Pembroke',
-     'boxer',
-     'street_sign',
-     'Samoyed',
-     'dalmatian',
-     'Labrador_retriever',
-     'bow',
-     'stove',
-     'Labrador_retriever',
-     'dingo',
-     'golden_retriever',
-     'chow',
-     'paper_towel',
-     'llama',
-     'Pembroke',
-     'borzoi',
-     'upright',
-     'Labrador_retriever',
-     'Chihuahua',
-     'Labrador_retriever',
-     'box_turtle',
-     'West_Highland_white_terrier',
-     'vizsla',
-     'dough',
-     'Scottish_deerhound',
-     'cocker_spaniel',
-     'Pembroke',
-     'chow',
-     'English_springer',
-     'bath_towel',
-     'standard_schnauzer',
-     'golden_retriever',
-     'Maltese_dog',
-     'beagle',
-     'basset',
-     'Pomeranian',
-     'pug',
-     'Labrador_retriever',
-     'golden_retriever',
-     'wood_rabbit',
-     'West_Highland_white_terrier',
-     'Italian_greyhound',
-     'Labrador_retriever',
-     'bull_mastiff',
-     'walking_stick',
-     'Shih-Tzu',
-     'Irish_water_spaniel',
-     'Chihuahua',
-     'hamster',
-     'bubble',
-     'French_bulldog',
-     'teddy',
-     'golden_retriever',
-     'Maltese_dog',
-     'golden_retriever',
-     'pug',
-     'chow',
-     'feather_boa',
-     'seat_belt',
-     'Boston_bull',
-     'whippet',
-     'Loafer',
-     'book_jacket',
-     'Chihuahua',
-     'doormat',
-     'Chihuahua',
-     'rain_barrel',
-     'Great_Pyrenees',
-     'Chesapeake_Bay_retriever',
-     'hamster',
-     'Chesapeake_Bay_retriever',
-     'black-footed_ferret',
-     'Pekinese',
-     'guenon',
-     'Welsh_springer_spaniel',
-     'Labrador_retriever',
-     'malamute',
-     'English_setter',
-     'common_iguana',
-     'Shetland_sheepdog',
-     'Japanese_spaniel',
-     'Blenheim_spaniel',
-     'water_buffalo',
-     'beagle',
-     'Lakeland_terrier',
-     'Staffordshire_bullterrier',
-     'American_Staffordshire_terrier',
-     'seat_belt',
-     'basset',
-     'patio',
-     'Chihuahua',
-     'cowboy_hat',
-     'Maltese_dog',
-     'Pembroke',
-     'Shih-Tzu',
-     'Siberian_husky',
-     'teddy',
-     'dalmatian',
-     'Eskimo_dog',
-     'miniature_pinscher',
-     'Chihuahua',
-     'Maltese_dog',
-     'Norfolk_terrier',
-     'golden_retriever',
-     'dogsled',
-     'miniature_pinscher',
-     'Pembroke',
-     'swing',
-     'schipperke',
-     'Maltese_dog',
-     'Staffordshire_bullterrier',
-     'Labrador_retriever',
-     'maze',
-     'seat_belt',
-     'malamute',
-     'Irish_terrier',
-     'harp',
-     'Pembroke',
-     'Airedale',
-     'Labrador_retriever',
-     'Labrador_retriever',
-     'Eskimo_dog',
-     'panpipe',
-     'cash_machine',
-     'kelpie',
-     'Scottish_deerhound',
-     'Italian_greyhound',
-     'pug',
-     'toy_poodle',
-     'Maltese_dog',
-     'porcupine',
-     'Chihuahua',
-     'mailbox',
-     'dalmatian',
-     'boxer',
-     'wallaby',
-     'French_bulldog',
-     'bloodhound',
-     'Chihuahua',
-     'Airedale',
-     'llama',
-     'EntleBucher',
-     'hog',
-     'Samoyed',
-     'earthstar',
-     'pillow',
-     'golden_retriever',
-     'pug',
-     'Maltese_dog',
-     'miniature_poodle',
-     'bluetick',
-     'Christmas_stocking',
-     'Brittany_spaniel',
-     'Christmas_stocking',
-     'bubble',
-     'space_heater',
-     'Lakeland_terrier',
-     'kuvasz',
-     'Chihuahua',
-     'tub',
-     'French_bulldog',
-     'ram',
-     'pug',
-     'Pembroke',
-     'Shetland_sheepdog',
-     'Pomeranian',
-     'Labrador_retriever',
-     'soft-coated_wheaten_terrier',
-     'carousel',
-     'pug',
-     'Pomeranian',
-     'Irish_setter',
-     'motor_scooter',
-     'Tibetan_terrier',
-     'Saint_Bernard',
-     'Lhasa',
-     'frilled_lizard',
-     'Samoyed',
-     'seat_belt',
-     'Norfolk_terrier',
-     'Rottweiler',
-     'toy_poodle',
-     'Pomeranian',
-     'birdhouse',
-     'toy_poodle',
-     'Chihuahua',
-     'Labrador_retriever',
-     'triceratops',
-     'schipperke',
-     'teddy',
-     'jigsaw_puzzle',
-     'snorkel',
-     'Siberian_husky',
-     'seat_belt',
-     'curly-coated_retriever',
-     'vizsla',
-     'wombat',
-     'whippet',
-     'English_springer',
-     'beagle',
-     'bald_eagle',
-     'English_setter',
-     'toyshop',
-     'dingo',
-     'boxer',
-     'koala',
-     'golden_retriever',
-     'cocker_spaniel',
-     'Leonberg',
-     'Pembroke',
-     'French_bulldog',
-     'Lakeland_terrier',
-     'Italian_greyhound',
-     'keeshond',
-     'Airedale',
-     'Pembroke',
-     'miniature_pinscher',
-     'malamute',
-     'Maltese_dog',
-     'hog',
-     'toy_poodle',
-     'bluetick',
-     'Labrador_retriever',
-     'cheetah',
-     'chow',
-     'kelpie',
-     'Chihuahua',
-     'llama',
-     'soft-coated_wheaten_terrier',
-     'golden_retriever',
-     'Pembroke',
-     'Labrador_retriever',
-     'Chihuahua',
-     'Chihuahua',
-     'minibus',
-     'Weimaraner',
-     'miniature_schnauzer',
-     'clog',
-     'Pembroke',
-     'shopping_cart',
-     'Labrador_retriever',
-     'Border_collie',
-     'llama',
-     'Bernese_mountain_dog',
-     'dishwasher',
-     'pug',
-     'Pomeranian',
-     'chow',
-     'Boston_bull',
-     'golden_retriever',
-     'white_wolf',
-     'web_site',
-     'Lakeland_terrier',
-     'Chesapeake_Bay_retriever',
-     'sliding_door',
-     'Yorkshire_terrier',
-     'papillon',
-     'Siberian_husky',
-     'damselfly',
-     'Rhodesian_ridgeback',
-     'Great_Dane',
-     'Pomeranian',
-     'pug',
-     'German_shepherd',
-     'Yorkshire_terrier',
-     'Labrador_retriever',
-     'Rottweiler',
-     'Norwich_terrier',
-     'Tibetan_mastiff',
-     'cheeseburger',
-     'refrigerator',
-     'Labrador_retriever',
-     'fiddler_crab',
-     'borzoi',
-     'car_mirror',
-     'pug',
-     'seat_belt',
-     'Shih-Tzu',
-     'Boston_bull',
-     'wood_rabbit',
-     'English_springer',
-     'Rottweiler',
-     'pug',
-     'miniature_pinscher',
-     'Staffordshire_bullterrier',
-     'Lakeland_terrier',
-     'Pomeranian',
-     'Eskimo_dog',
-     'pug',
-     'sorrel',
-     'bannister',
-     'golden_retriever',
-     'Pembroke',
-     'papillon',
-     'American_Staffordshire_terrier',
-     'malinois',
-     'Cardigan',
-     'hog',
-     'Ibizan_hound',
-     'crane',
-     'Pembroke',
-     'English_springer',
-     'cocker_spaniel',
-     'American_Staffordshire_terrier',
-     'Chihuahua',
-     'Scotch_terrier',
-     'snowmobile',
-     'Pembroke',
-     'Eskimo_dog',
-     'dogsled',
-     'toy_poodle',
-     'bustard',
-     'Italian_greyhound',
-     'collie',
-     'Old_English_sheepdog',
-     'Pomeranian',
-     'cowboy_hat',
-     'standard_poodle',
-     'Samoyed',
-     'malamute',
-     'badger',
-     'motor_scooter',
-     'pug',
-     'kuvasz',
-     'Pembroke',
-     'Lhasa',
-     'bighorn',
-     'bath_towel',
-     'kuvasz',
-     'golden_retriever',
-     'snorkel',
-     'geyser',
-     'golden_retriever',
-     'barrow',
-     'borzoi',
-     'Rottweiler',
-     'Lakeland_terrier',
-     'Bernese_mountain_dog',
-     'Shetland_sheepdog',
-     'bloodhound',
-     'Chihuahua',
-     'Saint_Bernard',
-     'minivan',
-     'Tibetan_terrier',
-     'toy_poodle',
-     'pug',
-     'Siberian_husky',
-     'bison',
-     'Siberian_husky',
-     'pug',
-     'golden_retriever',
-     'Samoyed',
-     'Samoyed',
-     'German_short-haired_pointer',
-     'soft-coated_wheaten_terrier',
-     'Mexican_hairless',
-     'Saint_Bernard',
-     'ice_lolly',
-     'cocker_spaniel',
-     'Shih-Tzu',
-     'vizsla',
-     'golden_retriever',
-     'Labrador_retriever',
-     'sea_lion',
-     'dining_table',
-     'malamute',
-     'pug',
-     'Scottish_deerhound',
-     'washbasin',
-     'groenendael',
-     'Pembroke',
-     'teddy',
-     'Shih-Tzu',
-     'boxer',
-     'Australian_terrier',
-     'hamster',
-     'beaver',
-     'bow_tie',
-     'Boston_bull',
-     'seat_belt',
-     'Shih-Tzu',
-     'papillon',
-     'Maltese_dog',
-     'pug',
-     'basenji',
-     'Old_English_sheepdog',
-     'soft-coated_wheaten_terrier',
-     'Samoyed',
-     'Pomeranian',
-     'borzoi',
-     'briard',
-     'car_mirror',
-     'weasel',
-     'space_heater',
-     'kuvasz',
-     'Appenzeller',
-     'Chihuahua',
-     'grey_fox',
-     'Great_Dane',
-     'Great_Dane',
-     'toy_poodle',
-     'Labrador_retriever',
-     'bath_towel',
-     'Siamese_cat',
-     'Shetland_sheepdog',
-     'Lhasa',
-     'washbasin',
-     'Great_Dane',
-     'Pembroke',
-     'Staffordshire_bullterrier',
-     'Chesapeake_Bay_retriever',
-     'Labrador_retriever',
-     'Italian_greyhound',
-     'boxer',
-     'pug',
-     'French_bulldog',
-     'Samoyed',
-     'Brittany_spaniel',
-     'Samoyed',
-     'German_short-haired_pointer',
-     'Italian_greyhound',
-     'Norfolk_terrier',
-     'Chihuahua',
-     'Shih-Tzu',
-     'schipperke',
-     'mousetrap',
-     'Labrador_retriever',
-     'cairn',
-     'Samoyed',
-     'pug',
-     'golden_retriever',
-     'Pembroke',
-     'hippopotamus',
-     'Dandie_Dinmont',
-     'malinois',
-     'Border_terrier',
-     'golden_retriever',
-     'Chihuahua',
-     'West_Highland_white_terrier',
-     'hummingbird',
-     'golden_retriever',
-     'tennis_ball',
-     'beagle',
-     'hamster',
-     'bath_towel',
-     'American_Staffordshire_terrier',
-     'Great_Pyrenees',
-     'tailed_frog',
-     'Rhodesian_ridgeback',
-     'kuvasz',
-     'white_wolf',
-     'Chihuahua',
-     'Border_collie',
-     'Yorkshire_terrier',
-     'Chihuahua',
-     'French_bulldog',
-     'toy_poodle',
-     'Pomeranian',
-     'golden_retriever',
-     'Boston_bull',
-     'West_Highland_white_terrier',
-     'Pomeranian',
-     'kelpie',
-     'bloodhound',
-     'golden_retriever',
-     'wallaby',
-     'hippopotamus',
-     'Pembroke',
-     'wool',
-     'Border_collie',
-     'golden_retriever',
-     'doormat',
-     'miniature_pinscher',
-     'Pembroke',
-     'window_shade',
-     'boxer',
-     'Labrador_retriever',
-     'Great_Pyrenees',
-     'otter',
-     'teddy',
-     'Pembroke',
-     'Samoyed',
-     'Chihuahua',
-     'Siamese_cat',
-     'guinea_pig',
-     'golden_retriever',
-     'pug',
-     'Norfolk_terrier',
-     'Airedale',
-     'collie',
-     'Egyptian_cat',
-     'Chihuahua',
-     'Chihuahua',
-     'Great_Pyrenees',
-     'golden_retriever',
-     'basenji',
-     'web_site',
-     'collie',
-     'golden_retriever',
-     'Staffordshire_bullterrier',
-     'Samoyed',
-     'papillon',
-     'Border_terrier',
-     'Pembroke',
-     'Tibetan_mastiff',
-     'golden_retriever',
-     'chow',
-     'four-poster',
-     'space_heater',
-     'toy_poodle',
-     'wild_boar',
-     'Chihuahua',
-     'cocker_spaniel',
-     'pug',
-     'Samoyed',
-     'Blenheim_spaniel',
-     'Bernese_mountain_dog',
-     'golden_retriever',
-     'Chihuahua',
-     'Lakeland_terrier',
-     'ram',
-     'golden_retriever',
-     'bathtub',
-     'whippet',
-     'miniature_pinscher',
-     'toy_poodle',
-     'agama',
-     'malinois',
-     'Staffordshire_bullterrier',
      'Norwich_terrier',
      'French_bulldog',
      'Cardigan',
@@ -2879,19 +1784,6 @@ twitter_archive.query('name == "a"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4032,19 +2924,6 @@ twitter_archive.query('name == "an"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4225,19 +3104,6 @@ twitter_archive.query('name == "the"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4438,19 +3304,6 @@ twitter_archive.query('name == "this"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4511,19 +3364,6 @@ twitter_archive.query('name == "space"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4584,19 +3424,6 @@ twitter_archive.query('name == "None"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5940,19 +4767,6 @@ twitter_archive_clean.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6424,19 +5238,6 @@ twitter_archive_master.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6793,19 +5594,6 @@ twitter_archive_master.query('name == "None"')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6905,19 +5693,6 @@ twitter_archive_mask.query('rating_denominator != 10')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7087,19 +5862,6 @@ twitter_archive_master.query('tweet_id == 810984652412424192')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7152,19 +5914,6 @@ twitter_archive_mask.loc[[1068,1165,1202,1662,2335]]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7238,19 +5987,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
