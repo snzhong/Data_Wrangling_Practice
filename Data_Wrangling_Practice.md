@@ -7498,7 +7498,7 @@ plt.ylabel('Number of dogs', fontsize=13);
 ```
 
 
-![png](https://github.com/snzhong/Data_Wrangling_Practice/blob/master/Data_Wrangling_Practice/output_135_0.png)
+![png](https://github.com/snzhong/Data_Wrangling_Practice/blob/master/Data_Wrangling_Practice_Images/output_135_0.png)
 
 
 
